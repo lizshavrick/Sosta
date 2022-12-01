@@ -1,9 +1,51 @@
 body {
-	background-color: #fffae1;}
+	background-color: #fffcf0;}
 
 h1   {
-	color: #5f6802;}
-	
+	color: #5f6802;
+	margin: auto;
+	text-align: center;
+	top: 50%;
+	font-family: Bilo Light;
+}
+h2   {
+	color: #5f6802;
+
+	font-family: Bilo Light;
+}
+
+label   {
+	color: #5f6802;
+
+	font-family: Bilo Light;
+}
+
 p    {
 	color: #5f6802; 
-	position: center; }
+	position: center; 
+}
+
+.logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 30%;
+	height: auto;
+	margin: auto;
+	margin-top: 15%;
+}
+
+#mc_embed_signup{
+	background:#fff; 
+	clear:left; 
+	font:14px Bilo Light;
+	width:400px;
+	margin: auto;
+	margin-top: 8%;
+	text-align: center;
+	background-color: #fffcf0;
+/*	padding: 1%;
+	border: 1px solid #5f6802;*/
+
+}
+
