@@ -7,21 +7,11 @@ font-weight: 100;
 }
 
 body {
-	 font-family: bilo, sans-serif;
+		font-family: Palatino;
 	 background-size: 100vw 100vh;
 }
- h1 {
- 	font-size: 6vw;
- 	padding-bottom: 10vh;
- }
 
 
-
-
- h1 {
- 	font-size: 6vw;
- 	padding-bottom: 10vh;
- }
 
 
 body {
@@ -36,13 +26,13 @@ h1   {
 	margin: auto;
 	text-align: center;
 	top: 50%;
-	font-family: Bilo Light;
-	font-size: 3vw;
+	font-family: Palatino;
+	font-size: 2vw;
 }
 h2   {
 	color: #5f6802;
 
-	font-family: Bilo Light;
+	font-family: Palatino;
 	font-size: 1.5em;
 		display: block;
 }
@@ -50,7 +40,7 @@ h2   {
 label   {
 	color: #5f6802;
 
-	font-family: Bilo Light;
+		font-family: Palatino;
 }
 
 p    {
@@ -62,16 +52,26 @@ p    {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 40vw;
+	width: 30vw;
 	height: auto;
 	margin: auto;
-	margin-top: 15vh;
+	margin-top: 3vh;
+	
 }
 
+.logo2 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 15vw;
+	height: auto;
+	margin: auto;
+margin-top: 10vh;
+}
 #mc_embed_signup{
 
 	clear:left; 
-	font:14px Bilo Light;
+	font-family: Palatino;
 	width:300px;
 	margin: auto;
 	margin-top: 4%;
@@ -102,12 +102,12 @@ h1   {
 	margin: auto;
 	text-align: center;
 	top: 50%;
-	font-family: Bilo Light;
+	font-family: Palatino;
 	font-size: 6vw;
 }
 h2   {
 	color: #5f6802;
-	font-family: Bilo Light;
+	font-family: Palatino;
 	font-size: 1.5em;
 		display: block;
 }
@@ -115,7 +115,7 @@ h2   {
 #mc_embed_signup{
 
 	clear:left; 
-	font:14px Bilo Light;
+	font-family: Palatino;
 	width:300px;
 	margin: auto;
 	margin-top: 8%;
