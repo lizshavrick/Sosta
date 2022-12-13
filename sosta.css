@@ -1,13 +1,13 @@
 
 
  @font-face {
-  font-family: Garamond, serif;
+  font-family: Palatino, serif;
 font-style: normal;
 font-weight: 100;
 }
 
 body {
-		font-family: Garamond;
+		font-family: Palatino;
 	 background-size: 100vw 100vh;
 
 }
@@ -26,13 +26,14 @@ h1   {
 	margin: auto;
 	text-align: center;
 	top: 50%;
-	font-family: Garamond;
-	font-size: 2vw;
+	font-family: Palatino;
+	font-size: 1.5em;
+	margin-top: 2vh;
 }
 
 h2   {
 	color: #5f6802;
-	font-family: Garamond;
+	font-family: Palatino;
 	font-size: 1.5em;
 	display: block;
 }
@@ -40,7 +41,7 @@ h2   {
 label   {
 	color: #5f6802;
 
-		font-family: Garamond;
+		font-family: Palatino;
 }
 
 p    {
@@ -52,7 +53,7 @@ p    {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 30vw;
+	width: 40vw;
 	height: auto;
 	margin: auto;
 	margin-top: 3vh;
@@ -63,7 +64,7 @@ p    {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 15vw;
+	width: 20vw;
 	height: auto;
 	margin: auto;
 margin-top: 10vh;
@@ -74,7 +75,7 @@ margin-top: 10vh;
 	font-family: Palatino;
 	width:300px;
 	margin: auto;
-	margin-top: 4%;
+	margin-top: -2%;
 	text-align: center;
 	background-color: #fffcf0;
 	display: block;
@@ -87,29 +88,51 @@ margin-top: 10vh;
 @media only screen and (max-width: 900px) {
  
  .logo {
- 	width: 80vw;
+ 	width: 40vw;
+ } 
+
+ .house{
+ 	width: 60vw;
  }
+#mc_embed_signup{
+		margin-top: 5%;
+}
 
 @media only screen and (max-width: 400px) {
  
- .logo {
- 	width: 80vw;
- 	padding-top: 10vh;
+.logo {
+ 	width: 55vw;
+ 	margin-top: 15vh;
+
  }
+
+ .house {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 84vw;
+	height: auto;
+	margin: auto;
+	margin-top: 2vh;
+	
+}
 
 h1   {
 	color: #5f6802;
-	margin: auto;
+
 	text-align: center;
-	top: 50%;
 	font-family: Palatino;
-	font-size: 6vw;
+	font-size: 5vw;
+	z-index: 3;
+
+	margin-top: 7vh;
 }
 h2   {
 	color: #5f6802;
 	font-family: Palatino;
 	font-size: 1.5em;
 		display: block;
+		font-size: 5vw;
 }
 
 #mc_embed_signup{
@@ -118,10 +141,10 @@ h2   {
 	font-family: Palatino;
 	width:300px;
 	margin: auto;
-	margin-top: 8%;
+	margin-top: 6vh;
 	text-align: center;
 	background-color: #fffcf0;
 	display: block;
-	padding-top: 8vh;
+
 /*	padding: 1%;
 
