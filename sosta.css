@@ -49,6 +49,10 @@ p    {
 	position: center; 
 }
 
+.subscribe1 {
+	border-radius: 1px solid #5f6802 !important;
+}
+
 .house {
 	display: block;
 	margin-left: auto;
