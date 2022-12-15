@@ -1,23 +1,28 @@
 
 
+<link rel="stylesheet" href="https://use.typekit.net/xxxxxxx.css">
+
+
+
+<style>
+  @import url("https://use.typekit.net/ymc1jht.css");
+</style>
+
+
  @font-face {
   font-family: Palatino, serif;
 font-style: normal;
 font-weight: 100;
 }
 
-body {
-		font-family: Palatino;
-	 background-size: 100vw 100vh;
-
-}
-
-
 
 
 body {
 	background-color: #fffcf0;
 background-size: 100vw 100vh;
+font-family: calluna, serif;
+font-weight: 300;
+font-style: normal;
 
 }
 
@@ -26,14 +31,18 @@ h1   {
 	margin: auto;
 	text-align: center;
 	top: 50%;
-	font-family: Palatino;
+	font-family: calluna, serif;
+font-weight: 300;
+font-style: normal;
 	font-size: 1.5em;
-	margin-top: 2vh;
+/*	margin-top: 2vh;*/
 }
 
 h2   {
 	color: #5f6802;
-	font-family: Palatino;
+font-family: calluna, serif;
+font-weight: 300;
+font-style: normal;
 	font-size: 1.5em;
 	display: block;
 }
@@ -41,7 +50,10 @@ h2   {
 label   {
 	color: #5f6802;
 
-		font-family: Palatino;
+font-family: calluna, serif;
+font-weight: 300;
+font-style: normal;
+font-size: 1em;
 }
 
 p    {
@@ -49,9 +61,21 @@ p    {
 	position: center; 
 }
 
-.subscribe1 {
-	border-radius: 1px solid #5f6802 !important;
+.button1 {
+	border:2px solid #5f6802 !important;
+	padding-left: 9%;
+	padding-right: 9%;
+	padding-top: 1.5%;
+	padding-bottom: 1.5%;
+font-family: calluna, serif;
+font-weight: 300;
+font-style: normal;
+	background-color:  #5f6802;
+	color: #fffcf0;
+	border-radius: 5px;
 }
+
+
 
 .house {
 	display: block;
@@ -68,18 +92,20 @@ p    {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 20vw;
+	width: 55vw;
 	height: auto;
 	margin: auto;
-margin-top: 10vh;
+margin-top: 5vh;
 }
 #mc_embed_signup{
 
 	clear:left; 
-	font-family: Palatino;
-	width:300px;
+font-family: calluna, serif;
+font-weight: 300;
+font-style: normal;
+	width:400px;
 	margin: auto;
-	margin-top: -2%;
+	margin-top: -3%;
 	text-align: center;
 	background-color: #fffcf0;
 	display: block;
@@ -89,24 +115,28 @@ margin-top: 10vh;
 
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1030px) {
  
+h1 {
+	margin-top: 4vh;
+}
+
  .logo {
- 	width: 40vw;
+ 	width: 80vw;
  } 
 
  .house{
  	width: 60vw;
  }
 #mc_embed_signup{
-		margin-top: 5%;
+		margin-top: -2vh;
 }
 
 @media only screen and (max-width: 400px) {
  
 .logo {
- 	width: 55vw;
- 	margin-top: 15vh;
+ 	width: 95vw;
+ 	margin-top: 22vh;
 
  }
 
@@ -125,27 +155,33 @@ h1   {
 	color: #5f6802;
 
 	text-align: center;
-	font-family: Palatino;
-	font-size: 5vw;
+	font-family: calluna, serif;
+font-weight: 300;
+font-style: normal;
+font-size: 1.5em;
 	z-index: 3;
 
-	margin-top: 7vh;
+	margin-top: 5vh;
 }
 h2   {
 	color: #5f6802;
-	font-family: Palatino;
+font-family: calluna, serif;
+font-weight: 300;
+font-style: normal;
 	font-size: 1.5em;
 		display: block;
-		font-size: 5vw;
+		
 }
 
 #mc_embed_signup{
 
 	clear:left; 
-	font-family: Palatino;
+font-family: calluna, serif;
+font-weight: 300;
+font-style: normal;
 	width:300px;
 	margin: auto;
-	margin-top: 6vh;
+	margin-top: -3vh;
 	text-align: center;
 	background-color: #fffcf0;
 	display: block;
