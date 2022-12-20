@@ -26,6 +26,99 @@ font-style: normal;
 
 }
 
+@media only screen and (max-width: 2000px) {
+
+h1   {
+	color: #5f6802;
+	margin: auto;
+	text-align: center;
+	top: 50%;
+	font-family: calluna, serif;
+font-weight: 300;
+font-style: normal;
+	font-size: 1.5em;
+/*	margin-top: 2vh;*/
+}
+
+h2   {
+	color: #5f6802;
+font-family: calluna, serif;
+font-weight: 300;
+font-style: normal;
+	font-size: 1.5em;
+	display: block;
+}
+
+label   {
+	color: #5f6802;
+
+font-family: calluna, serif;
+font-weight: 300;
+font-style: normal;
+font-size: 1em;
+}
+
+p    {
+	color: #5f6802; 
+	position: center; 
+}
+
+.button1 {
+	border:2px solid #5f6802 !important;
+	padding-left: 9%;
+	padding-right: 9%;
+	padding-top: 1.5%;
+	padding-bottom: 1.5%;
+font-family: calluna, serif;
+font-weight: 300;
+font-style: normal;
+	background-color:  #5f6802;
+	color: #fffcf0;
+	border-radius: 5px;
+}
+
+
+
+.house {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40vw;
+	height: auto;
+	margin: auto;
+	margin-top: 3vh;
+	
+}
+
+.logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 48vw;
+	height: auto;
+	margin: auto;
+margin-top: 3vh;
+}
+#mc_embed_signup{
+
+	clear:left; 
+font-family: calluna, serif;
+font-weight: 300;
+font-style: normal;
+	width:400px;
+	margin: auto;
+	margin-top: -3%;
+	text-align: center;
+	background-color: #fffcf0;
+	display: block;
+/*	padding: 1%;
+	border: 1px solid #5f6802;*/
+
+
+}
+
+@media only screen and (max-width: 1500px) {
+
 h1   {
 	color: #5f6802;
 	margin: auto;
@@ -113,6 +206,7 @@ font-style: normal;
 	border: 1px solid #5f6802;*/
 
 
+}
 }
 
 @media only screen and (max-width: 1030px) {
