@@ -136,7 +136,7 @@ h1 {
  
 .logo {
  	width: 100vw;
- 	margin-top: 15vh;
+ 	margin-top: 12vh;
 
  }
 
@@ -181,7 +181,7 @@ font-weight: 300;
 font-style: normal;
 	width:300px;
 	margin: auto;
-	margin-top: -3vh;
+	margin-top: -5vh;
 	text-align: center;
 	background-color: #fffcf0;
 	display: block;
