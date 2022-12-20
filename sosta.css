@@ -116,6 +116,7 @@ font-style: normal;
 
 
 }
+}
 
 @media only screen and (max-width: 1500px) {
 
@@ -198,7 +199,7 @@ font-weight: 300;
 font-style: normal;
 	width:40%;
 	margin: auto;
-	margin-top: -2.4%;
+	margin-top: -3.4%;
 	text-align: center;
 	background-color: #fffcf0;
 	display: block;
@@ -275,7 +276,7 @@ font-weight: 300;
 font-style: normal;
 	width:300px;
 	margin: auto;
-	margin-top: -5vh;
+	margin-top: -7vh;
 	text-align: center;
 	background-color: #fffcf0;
 	display: block;
