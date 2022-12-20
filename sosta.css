@@ -107,7 +107,7 @@ font-weight: 300;
 font-style: normal;
 	width:400px;
 	margin: auto;
-	margin-top: -2.4%;
+	margin-top: -4%;
 	text-align: center;
 	background-color: #fffcf0;
 	display: block;
@@ -199,7 +199,7 @@ font-weight: 300;
 font-style: normal;
 	width:40%;
 	margin: auto;
-	margin-top: -3.4%;
+	margin-top: -6%;
 	text-align: center;
 	background-color: #fffcf0;
 	display: block;
@@ -224,7 +224,7 @@ h1 {
  	width: 60vw;
  }
 #mc_embed_signup{
-		margin-top: -3.6vh;
+		margin-top: -6vh;
 }
 
 @media only screen and (max-width: 500px) {
